@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-942-cosmology-fall-2001/db6839d85f926f2f41b8056ee63e80c2_cosmog.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
