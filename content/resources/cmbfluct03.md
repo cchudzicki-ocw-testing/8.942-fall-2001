@@ -8,6 +8,5 @@ parent_title: Readings and Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: cmbfluct03.pdf
-type: OCWFile
 uid: 1dfd6c11-4ad9-2fe1-e487-3a9a83a209c7
 ---

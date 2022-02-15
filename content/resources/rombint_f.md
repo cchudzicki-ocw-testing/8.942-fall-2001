@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: rombint_f.pdf
-type: OCWFile
 uid: ca965571-d378-e65a-2d30-b5ee6e80a5c9
 ---

@@ -8,6 +8,5 @@ parent_title: Readings and Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: cosmog.pdf
-type: OCWFile
 uid: db6839d8-5f92-6f2f-41b8-056ee63e80c2
 ---
