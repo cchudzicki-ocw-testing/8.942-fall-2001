@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the assigned readings, and includes selected lecture
+  notes and links to some complete papers available online.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Lecture Notes
